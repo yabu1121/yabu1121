@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello%2C+World!+👋;I'm+an+Information+Engineering+Student.;Building+Web+%26+Mobile+Applications." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello%2C+World!+👋;I'm+a+Student+Engineer.;Learning+Web+Technologies.;Striving+for+Growth+🌱" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -8,32 +8,34 @@
 
 <br>
 
-### 🧑‍💻 About Me
+### 🐣 About Me
 
-情報工学を専攻するエンジニアです。現在はWeb開発（Next.js/Go）とモバイルアプリ開発（Flutter）に注力しており、スケーラブルなアプリケーション構築を目指して日々コードを書いています。
+情報工学を専攻している学部2年生です。<br>
+現在は基礎を固めつつ、Webアプリケーション開発（Frontend/Backend）の学習に励んでいます。
+
+I am a sophomore majoring in Information Engineering.<br>
+I am currently **studying** Web Development fundamentals and eager to learn new technologies.
 
 - 🎓 **Education:** Information Engineering (Sophomore)
-- 🔭 **Focus:** Full-stack Web Dev & Mobile App Dev
-- ⚡ **Tech Stack:** Next.js, React, Go, Flutter, TypeScript
-- 💼 **Goal:** Seeking Internship opportunities for 2026.
+- 🌱 **Currently Learning:** Next.js, React, Go
+- 🏫 **University Studies:** C, Java, Algorithms
+- 💼 **Goal:** To become a capable engineer by 2026.
 
 ---
 
-### 🛠️ Technical Arsenal
+### 📚 Technologies I'm Exploring
 
-| Category | Technologies |
+| Category | Learning Focus |
 | :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css&theme=light" height="40" /> |
-| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart&theme=light" height="40" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=go,java,c,cpp,python&theme=light" height="40" /> |
-| **Infrastructure** | <img src="https://skillicons.dev/icons?i=docker,linux,vercel,firebase&theme=light" height="40" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion&theme=light" height="40" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,html,css&theme=light" height="40" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=go,java,c,python&theme=light" height="40" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=light" height="40" /> |
 
 <br>
 
 ---
 
-### 📈 GitHub Activity
+### 📈 My Coding Journey
 
 <div align="center">
   
@@ -58,13 +60,6 @@
 
 <br>
 
-### 🚀 Featured Projects
-<div align="left">
-  Please check out my <b>Pinned Repositories</b> below for my latest work, including the Marketplace App! 👇
-</div>
-
-<br>
-
 <div align="center">
-  <small>Thanks for visiting! Let's connect.</small>
+  <small>Thank you for watching my growth! 🚀</small>
 </div>
