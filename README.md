@@ -28,7 +28,7 @@ I am currently **studying** Web Development fundamentals and eager to learn new 
 | Category | Learning Focus |
 | :--- | :--- |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,html,css&theme=light" height="40" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=go,java,c,python&theme=light" height="40" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=go,java,c,c++,python&theme=light" height="40" /> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=light" height="40" /> |
 
 <br>
