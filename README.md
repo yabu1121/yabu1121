@@ -48,10 +48,10 @@ I am currently **studying** Web Development fundamentals and eager to learn new 
   <table border="0" style="border: none;">
     <tr border="0" style="border: none;">
       <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=yabu1121&show_icons=true&theme=buefy&count_private=true&hide_border=true&bg_color=FEFEFE" alt="Stats" />
+        <img src="https:/github.com/yabu1121/github-readme-stats.vercel.app/api?username=yabu1121&show_icons=true&theme=buefy&count_private=true&hide_border=true&bg_color=FEFEFE" alt="Stats" />
       </td>
       <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yabu1121&layout=compact&theme=buefy&langs_count=6&hide_border=true&bg_color=FEFEFE" alt="Top Langs" />
+        <img src="https:/github.com/yabu1121/github-readme-stats.vercel.app/api/top-langs/?username=yabu1121&layout=compact&theme=buefy&langs_count=6&hide_border=true&bg_color=FEFEFE" alt="Top Langs" />
       </td>
     </tr>
   </table>
