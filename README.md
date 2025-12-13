@@ -12,6 +12,8 @@
 
 情報工学を専攻している学部2年生です。<br>
 現在は基礎を固めつつ、Webアプリケーション開発（Frontend/Backend）の学習に励んでいます。
+学習中の言語はNext.js, Typescriptが中心で、大学でJava, Python, C++などを少し触れています。
+Next.js, Typescriptでフルスタック開発をできるようになり、その他バックエンドの言語はアプリを作れる程度の技術力になることがまずは目標です。
 
 I am a sophomore majoring in Information Engineering.<br>
 I am currently **studying** Web Development fundamentals and eager to learn new technologies.
