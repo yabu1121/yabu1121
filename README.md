@@ -19,7 +19,7 @@ I am a sophomore majoring in Information Engineering.<br>
 I am currently **studying** Web Development fundamentals and eager to learn new technologies.
 
 - 🎓 **Education:** Information Engineering (Sophomore)
-- 🌱 **Currently Learning:** Next.js, React, Go
+- 🌱 **Currently Learning:** Next.js, React
 - 🏫 **University Studies:** C, Java, Algorithms
 - 💼 **Goal:** To become a capable engineer by 2026.
 
@@ -30,7 +30,7 @@ I am currently **studying** Web Development fundamentals and eager to learn new 
 | Category | Learning Focus |
 | :--- | :--- |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,html,css&theme=light" height="40" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=go,java,c,cpp,python&theme=light" height="40" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=java,c,cpp,python&theme=light" height="40" /> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=light" height="40" /> |
 
 <br>
