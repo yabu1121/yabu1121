@@ -1,57 +1,74 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello%2C+World!+👋;I'm+Hayato+Nasu.;Fullstack+Developer+Path.;Striving+for+Growth+🌱" alt="Typing SVG" />
+  <a href="https://github.com/yabu1121">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Hayato+Nasu.👋;Crafting+scalable+Web+Systems.;Next.js+%2B+Go+%2B+Cloud+Native.🚀;Always+building%2C+always+learning." alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa474-dfbf-4c34-b91c-d75c6f5090b3.gif" width="100%">
 </div>
 
 <br>
 
-### 🐣 About Me
-情報工学専攻の学部2年生です。現在は**Next.js / TypeScript**を用いたフルスタック開発と、実務でのリファクタリングに挑戦中です。
-
----
-
-### 🏆 Achievements & Activity
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yabu1121&theme=buefy&column=7&margin-w=15&no-bg=true" alt="GitHub Trophies" />
-  </a>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yabu1121&theme=buefy&bg_color=FEFEFE&hide_border=true&area=true" width="100%" />
+
+### ⚡ The Engine Room (Activity & Stats)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yabu1121&bg_color=00000000&color=36BCF7&line=36BCF7&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
+
+<br><br>
+
+<table border="0" style="border: none; margin: 0 auto;">
+  <tr border="0" style="border: none;">
+    <td width="55%" align="center" style="border: none; padding-right: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=yabu1121&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=36BCF7&icon_color=36BCF7&text_color=777777" alt="Stats" style="width: 100%;" />
+    </td>
+    <td width="45%" align="center" style="border: none; padding-left: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yabu1121&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=36BCF7&icon_color=36BCF7&text_color=777777" alt="Top Langs" style="width: 100%;" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yabu1121&hide_border=true&stroke=0000&background=00000000&ring=36BCF7&fire=36BCF7&currStreakNum=36BCF7&sideNums=777777&currStreakLabel=36BCF7" alt="GitHub Streak" />
+
 </div>
 
 ---
 
-### 📊 Weekly Coding Activity (WakaTime)
+### 🛠️ Technical Arsenal
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yabu1121&theme=buefy&layout=compact&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yabu1121&layout=compact&theme=buefy&langs_count=6&hide_border=true&bg_color=FEFEFE" width="40%" />
+  <p>モダンなフルスタック開発と、堅牢なバックエンド構築に注力しています。</p>
 </div>
 
----
-
-### 🛠️ Technologies & Tools
-| Category | Skills |
+| Focus Area | Stack |
 | :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css&theme=light" height="35" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=go,supabase,postgres,java,py,cpp&theme=light" height="35" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,vercel&theme=light" height="35" /> |
+| **Frontend Core** | <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,html,css&theme=light" height="40" /> |
+| **Backend & DB** | <img src="https://skillicons.dev/icons?i=go,python,java,cpp,supabase,postgres&theme=light" height="40" /> |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,actions,docker,linux,vscode,vercel&theme=light" height="40" /> |
 
 ---
 
-### 📜 Recent Activity
-* 🛠 コミットやPRの履歴がここに自動で表示されるようになります
----
+### 🚀 Current Focus & Goals
 
-### 📫 Connect with me
+情報工学を専攻する学部2年生。現在は**Next.js**と**Go**を組み合わせたハイパフォーマンスなWebアプリケーション開発と、実務環境でのリファクタリング経験を通じて設計能力を磨いています。
+
+* 🏗️ **Building:** Next.js + Go (Echo) + Supabase によるフルスタックアプリ
+* 🎯 **Goal (by 2026):** 技術選定から実装、運用まで自走できるエンジニアへ。
+
+<br>
+
 <div align="center">
-  <a href="https://x.com/papox_57">
-    <img src="https://skillicons.dev/icons?i=twitter" height="30" />
-  </a>
-  &nbsp;
-  <a href="mailto:あなたのメールアドレス">
-    <img src="https://skillicons.dev/icons?i=gmail" height="30" />
-  </a>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa474-dfbf-4c34-b91c-d75c6f5090b3.gif" width="100%">
+
+### 📫 Connect & Follow
+
+<a href="https://x.com/papox_57" target="_blank">
+<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+</a>
+&nbsp;
+<a href="mailto:あなたのメールアドレス">
+<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+</a>
 </div>
