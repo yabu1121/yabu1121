@@ -1,74 +1,74 @@
 <div align="center">
-  <a href="https://github.com/yabu1121">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Hayato+Nasu.👋;Crafting+scalable+Web+Systems.;Next.js+%2B+Go+%2B+Cloud+Native.🚀;Always+building%2C+always+learning." alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=00D1FF&center=true&vCenter=true&width=650&lines=I'm+Hayato+Nasu.;Next.js+Fullstack+Engineer.;Back-end+Artisan+(Go%2C+Python%2C+C%2B%2B);Building+the+Future+Autonomously.🚀" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa474-dfbf-4c34-b91c-d75c6f5090b3.gif" width="100%">
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=120&section=header" width="100%" />
+</p>
 
 <br>
 
+### 🛰️ Mission Control
+**「フロントエンドからビットの世界まで、すべてを自ら構築する」**
+情報工学を専攻し、Next.jsでのモダンな体験と、Go/C++による堅牢なバックエンド開発の両輪を回しています。既存の枠組みに頼らず、ゼロからアーキテクチャを設計し、完全に自走できるエンジニアへの道を歩んでいます。
+
+- 🗺️ **Vision:** 自走型ソフトウェアエンジニア (Self-Reliant Architect)
+- 🏗️ **Now Building:** Next.js + Go (Echo) + Supabase Full-stack App
+- 🔥 **Backend Mastery:** Go, Python, C++, Java
+
+---
+
+### 🌊 Development Momentum (Dynamic Activity)
 <div align="center">
+  <img src="https://raw.githubusercontent.com/yabu1121/yabu1121/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  
+  <br>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yabu1121&bg_color=00000000&color=00D1FF&line=00D1FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</div>
 
-### ⚡ The Engine Room (Activity & Stats)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yabu1121&bg_color=00000000&color=36BCF7&line=36BCF7&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
-
-<br><br>
-
-<table border="0" style="border: none; margin: 0 auto;">
-  <tr border="0" style="border: none;">
-    <td width="55%" align="center" style="border: none; padding-right: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=yabu1121&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=36BCF7&icon_color=36BCF7&text_color=777777" alt="Stats" style="width: 100%;" />
-    </td>
-    <td width="45%" align="center" style="border: none; padding-left: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yabu1121&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=36BCF7&icon_color=36BCF7&text_color=777777" alt="Top Langs" style="width: 100%;" />
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yabu1121&hide_border=true&stroke=0000&background=00000000&ring=36BCF7&fire=36BCF7&currStreakNum=36BCF7&sideNums=777777&currStreakLabel=36BCF7" alt="GitHub Streak" />
-
+<div align="center">
+  <table border="0" style="border: none;">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=yabu1121&show_icons=true&theme=tokyonight&count_private=true&bg_color=00000000&hide_border=true&title_color=00D1FF&text_color=a9b1d6" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yabu1121&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=00D1FF&text_color=a9b1d6" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Technical Matrix
 
-<div align="center">
-  <p>モダンなフルスタック開発と、堅牢なバックエンド構築に注力しています。</p>
-</div>
-
-| Focus Area | Stack |
+| Field | Technologies & Languages |
 | :--- | :--- |
-| **Frontend Core** | <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,html,css&theme=light" height="40" /> |
-| **Backend & DB** | <img src="https://skillicons.dev/icons?i=go,python,java,cpp,supabase,postgres&theme=light" height="40" /> |
-| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,actions,docker,linux,vscode,vercel&theme=light" height="40" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,html,css&theme=dark" height="40" /> |
+| **Backend Core** | <img src="https://skillicons.dev/icons?i=go,py,cpp,java,supabase,postgres&theme=dark" height="40" /> |
+| **Infrastructure** | <img src="https://skillicons.dev/icons?i=git,docker,linux,vercel,actions&theme=dark" height="40" /> |
 
 ---
 
-### 🚀 Current Focus & Goals
-
-情報工学を専攻する学部2年生。現在は**Next.js**と**Go**を組み合わせたハイパフォーマンスなWebアプリケーション開発と、実務環境でのリファクタリング経験を通じて設計能力を磨いています。
-
-* 🏗️ **Building:** Next.js + Go (Echo) + Supabase によるフルスタックアプリ
-* 🎯 **Goal (by 2026):** 技術選定から実装、運用まで自走できるエンジニアへ。
+### 📊 Coding Hours (Real-time Focus)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yabu1121&theme=tokyonight&layout=compact&bg_color=00000000&hide_border=true&title_color=00D1FF" width="60%" />
+</p>
 
 <br>
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa474-dfbf-4c34-b91c-d75c6f5090b3.gif" width="100%">
-
-### 📫 Connect & Follow
-
-<a href="https://x.com/papox_57" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
-</a>
-&nbsp;
-<a href="mailto:あなたのメールアドレス">
-<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-</a>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=80&section=footer" width="100%" />
+  <br>
+  <a href="https://x.com/papox_57" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:あなたのメール">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <br><br>
+  <small>Engineering with passion. Evolving autonomously. 🚀</small>
+</div>>
