@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello%2C+World!+👋;I'm+a+Student+Engineer.;Learning+Web+Technologies.;Striving+for+Growth+🌱" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello%2C+World!+👋;I'm+Hayato+Nasu.;Fullstack+Developer+Path.;Striving+for+Growth+🌱" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,58 +10,50 @@
 
 ### 🐣 About Me
 
-情報工学を専攻している学部2年生です。<br>
-現在は基礎を固めつつ、Webアプリケーション開発（Frontend/Backend）の学習に励んでいます。
-学習中の言語はNext.js, Typescriptが中心で、大学でJava, Python, C++などを少し触れています。
-Next.js, Typescriptでフルスタック開発をできるようになり、その他バックエンドの言語はアプリを作れる程度の技術力になることがまずは目標です。
+情報工学専攻の学部2年生です。
+現在は**Next.js / TypeScript**を用いたフルスタック開発をメインに、型安全でスケーラブルなコードを書く習慣を身につけています。
+また、実務の現場でレガシーコードのレスポンシブ対応やリファクタリングにも挑戦中です。
 
-I am a sophomore majoring in Information Engineering.<br>
-I am currently **studying** Web Development fundamentals and eager to learn new technologies.
-
-- 🎓 **Education:** Information Engineering (Sophomore)
-- 🌱 **Currently Learning:** Next.js, React
-- 🏫 **University Studies:** C, Java, Algorithms
-- 💼 **Goal:** To become a capable engineer by 2026.
+- 🎓 **Education:** 芝浦工業大学 情報工学コース (Sophomore)
+- 🏗️ **Current Project:** Next.js + Go + Supabase を用いたWebアプリ開発
+- 🌱 **Learning Now:** Go (Echo), PostgreSQL, UI/UX Design (Tailwind CSS)
+- 💼 **Goal:** 2026年までに、技術で価値を提供できる自立したエンジニアになる
 
 ---
 
-### 📚 Technologies I'm Exploring
+### 🛠️ Technologies & Tools
 
-| Category | Learning Focus |
+| Category | Skills |
 | :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,html,css&theme=light" height="40" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=java,c,cpp,python&theme=light" height="40" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=light" height="40" /> |
-
-<br>
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css&theme=light" height="35" /> |
+| **Backend & DB** | <img src="https://skillicons.dev/icons?i=go,supabase,postgres,java,py,cpp&theme=light" height="35" /> |
+| **Tools & Dev** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,vercel&theme=light" height="35" /> |
 
 ---
 
-### 📈 My Coding Journey
+### 📈 GitHub Stats
 
 <div align="center">
-  
   <a href="https://github.com/yabu1121">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yabu1121&theme=buefy&hide_border=true&stroke=0000&background=FEFEFE" alt="GitHub Streak" />
   </a>
-  
-  <br><br>
-
-  <table border="0" style="border: none;">
-    <tr border="0" style="border: none;">
-      <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats-five-ivory-jczfyqjdbl.vercel.app/api?username=yabu1121&show_icons=true&theme=buefy&count_private=true&hide_border=true&bg_color=FEFEFE" alt="Stats" />
-      </td>
-      <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yabu1121&layout=compact&theme=buefy&langs_count=6&hide_border=true&bg_color=FEFEFE" alt="Top Langs" />
-      </td>
-    </tr>
-  </table>
-
+  <br>
+  <img src="https://github-readme-stats-five-ivory-jczfyqjdbl.vercel.app/api?username=yabu1121&show_icons=true&theme=buefy&count_private=true&hide_border=true&bg_color=FEFEFE" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yabu1121&layout=compact&theme=buefy&langs_count=6&hide_border=true&bg_color=FEFEFE" alt="Top Langs" width="40%" />
 </div>
 
 <br>
 
+### 📫 Connect with me
 <div align="center">
+  <a href="https://x.com/papox_57">
+    <img src="https://skillicons.dev/icons?i=twitter" height="30" />
+  </a>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=gmail" height="30" />
+</div>
+
+<div align="center">
+  <br>
   <small>Thank you for watching my growth! 🚀</small>
 </div>
