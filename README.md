@@ -16,30 +16,35 @@
 - 🏗️ **Now Building:** Next.js + Go (Echo) + Supabase Full-stack App
 - 🔥 **Backend Mastery:** Go, Python, C++, Java
 
----
-
-### 🌊 Development Momentum (Dynamic Activity)
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yabu1121/yabu1121/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-  
-  <br>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yabu1121&bg_color=00000000&color=00D1FF&line=00D1FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
-</div>
+---### 🌊 System Pulse & Autonomous Growth
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00D1FF&height=2&width=100%&animation=twinkling" />
+</p>
 
 <div align="center">
-  <table border="0" style="border: none;">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=yabu1121&show_icons=true&theme=tokyonight&count_private=true&bg_color=00000000&hide_border=true&title_color=00D1FF&text_color=a9b1d6" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yabu1121&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=00D1FF&text_color=a9b1d6" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://raw.githubusercontent.com/yabu1121/yabu1121/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="95%" />
+
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yabu1121&bg_color=00000000&color=00D1FF&line=00D1FF&point=FFFFFF&area=true&hide_border=true&font_size=20" width="100%" />
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yabu1121&show_icons=true&theme=transparent&count_private=true&title_color=00D1FF&text_color=a9b1d6&icon_color=00D1FF&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yabu1121&layout=compact&theme=transparent&title_color=00D1FF&text_color=a9b1d6&icon_color=00D1FF&hide_border=true" height="180em" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yabu1121&theme=transparent&layout=compact&title_color=00D1FF&text_color=a9b1d6&hide_border=true" width="85%" />
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00D1FF&height=2&width=100%&animation=twinkling" />
+</p>
 ---
 
 ### 🛠️ Technical Matrix
