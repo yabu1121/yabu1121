@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=00D1FF&center=true&vCenter=true&width=650&lines=I'm+Hayato+Nasu.;Next.js+Fullstack+Engineer.;Back-end+Artisan+(Go%2C+Python%2C+C%2B%2B);Building+the+Future+Autonomously.🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=00D1FF&center=true&vCenter=true&width=650&lines=I'm+Hayato+Nasu.;Next.js+Fullstack+Engineer." alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -9,12 +9,13 @@
 <br>
 
 ### 🛰️ Mission Control
-**「フロントエンドからビットの世界まで、すべてを自ら構築する」**
-情報工学を専攻し、Next.jsでのモダンな体験と、Go/C++による堅牢なバックエンド開発の両輪を回しています。既存の枠組みに頼らず、ゼロからアーキテクチャを設計し、完全に自走できるエンジニアへの道を歩んでいます。
+**Next.jsのフルスタック開発とGoの高速なバックエンド処理ぼ技術者を目指す**
+情報工学を専攻し、c++, アセンブリ,python,javaを用いながら、画像処理やアルゴリズムの学習を進めながら、独学、インターンでNext.js, Goの学習を進めています。人に頼らず自分の意志で自発的に積極的な行動をして、学習を進めています。
+美しい設計と高速な設計ができるエンジニアを目指しています。
 
-- 🗺️ **Vision:** 自走型ソフトウェアエンジニア (Self-Reliant Architect)
-- 🏗️ **Now Building:** Next.js + Go (Echo) + Supabase Full-stack App
-- 🔥 **Backend Mastery:** Go, Python, C++, Java
+- **Vision:** ソフトウェアエンジニア 
+- **Now Building:** Next.js + Go 
+- **Backend:** Go, Python, C++, Java
 
 ---### 🌊 System Pulse & Autonomous Growth
 <p align="center">
