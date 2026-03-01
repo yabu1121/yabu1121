@@ -53,7 +53,7 @@
 | Field | Technologies & Languages |
 | :--- | :--- |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind&theme=dark" height="40" /> |
-| **Backend Core** | <img src="https://skillicons.dev/icons?i=go,py,cpp,java,supabase&theme=dark" height="40" /> |
+| **Backend Core** | <img src="https://skillicons.dev/icons?i=go,nodejs,py,cpp,java,supabase&theme=dark" height="40" /> |
 | **Infrastructure** | <img src="https://skillicons.dev/icons?i=git,docker,linux,actions&theme=dark" height="40" /> |
 
 ---
