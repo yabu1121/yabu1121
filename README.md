@@ -8,20 +8,21 @@
 
 <br>
 
-### 🛰️ Mission Control
+### 自己紹介
 
-**Next.jsのフルスタック開発とGoの高速なバックエンド処理ぼ技術者を目指す**
+那須隼人（なすはやと）
+芝浦工業大学 情報通信工学課程情報工学コース 2年生 / 28卒 / 埼玉県出身
 
-情報工学を専攻し、c++, アセンブリ,python,javaを用いながら、画像処理やアルゴリズムの学習を進めながら、独学、インターンでNext.js, Goの学習を進めています。人に頼らず自分の意志で自発的に積極的な行動をして、学習を進めています。
-美しい設計と高速な設計ができるエンジニアを目指しています。
+2024年5月からhtml, css, jsの勉強を始め、次いでNext.js,　Golangの学習をしています。
 
-- **Vision:** ソフトウェアエンジニア
-- **Now Building:** Next.js + Go
-- **Backend:** Go, Python, C++, Java
+ソフトウェアエンジニア
+- **Now Building:** Next.js
+- **Backend:** Go
+- **Institute:** C C++ Java Python Asembly 
 
 ---
 
-### 🌊 System Pulse & Autonomous Growth
+### System Pulse & Autonomous Growth
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/yabu1121/yabu1121/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="95%" />
@@ -44,7 +45,7 @@
 
 ---
 
-### 🛠️ Technical Matrix
+### Technical Matrix
 
 | Field | Technologies & Languages |
 | :--- | :--- |
@@ -54,7 +55,7 @@
 
 ---
 
-### 📊 Coding Hours (Real-time Focus)
+### Coding Hours (Real-time Focus)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yabu1121&theme=tokyonight&layout=compact&bg_color=00000000&hide_border=true&title_color=00D1FF" width="60%" />
@@ -69,9 +70,9 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:あなたのメール">
+  <a href="mailto:hayabusa115643@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <br><br>
-  <small>Engineering with passion. Evolving autonomously. 🚀</small>
+  <small>Engineering with passion. Evolving autonomously.</small>
 </div>
