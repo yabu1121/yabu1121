@@ -9,24 +9,29 @@
 <br>
 
 ### 🛰️ Mission Control
-**Next.jsのフルスタック開発とGoの高速なバックエンド処理ぼ技術者を目指す**
-情報工学を専攻し、c++, アセンブリ,python,javaを用いながら、画像処理やアルゴリズムの学習を進めながら、独学、インターンでNext.js, Goの学習を進めています。人に頼らず自分の意志で自発的に積極的な行動をして、学習を進めています。
-美しい設計と高速な設計ができるエンジニアを目指しています。
 
-- **Vision:** ソフトウェアエンジニア 
-- **Now Building:** Next.js + Go 
-- **Backend:** Go, Python, C++, Java
+**Next.jsのフルスタック開発とGoの高速なバックエンド処理の技術者を目指す**
 
----### 🌊 System Pulse & Autonomous Growth
+情報工学を専攻し、C++・アセンブリ・Python・Javaを用いながら、画像処理やアルゴリズムの学習を進めつつ、独学・インターンでNext.js / Goの習得を進めています。
+人に頼らず自分の意志で自発的・積極的に行動し、美しい設計と高速な設計ができるエンジニアを目指しています。
+
+| | |
+|:---|:---|
+| **Vision** | ソフトウェアエンジニア |
+| **Now Building** | Next.js + Go |
+| **Backend** | Go, Python, C++, Java |
+
+---
+
+### 🌊 System Pulse & Autonomous Growth
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00D1FF&height=2&width=100%&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00D1FF&height=2&width=100%" />
 </p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/yabu1121/yabu1121/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="95%" />
-
   <br><br>
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yabu1121&bg_color=00000000&color=00D1FF&line=00D1FF&point=FFFFFF&area=true&hide_border=true&font_size=20" width="100%" />
 </div>
 
@@ -44,8 +49,9 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00D1FF&height=2&width=100%&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00D1FF&height=2&width=100%" />
 </p>
+
 ---
 
 ### 🛠️ Technical Matrix
@@ -59,6 +65,7 @@
 ---
 
 ### 📊 Coding Hours (Real-time Focus)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yabu1121&theme=tokyonight&layout=compact&bg_color=00000000&hide_border=true&title_color=00D1FF" width="60%" />
 </p>
@@ -72,9 +79,9 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:あなたのメール">
+  <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <br><br>
   <small>Engineering with passion. Evolving autonomously. 🚀</small>
-</div>>
+</div>
