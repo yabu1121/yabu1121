@@ -10,24 +10,18 @@
 
 ### 🛰️ Mission Control
 
-**Next.jsのフルスタック開発とGoの高速なバックエンド処理の技術者を目指す**
+**Next.jsのフルスタック開発とGoの高速なバックエンド処理ぼ技術者を目指す**
 
-情報工学を専攻し、C++・アセンブリ・Python・Javaを用いながら、画像処理やアルゴリズムの学習を進めつつ、独学・インターンでNext.js / Goの習得を進めています。
-人に頼らず自分の意志で自発的・積極的に行動し、美しい設計と高速な設計ができるエンジニアを目指しています。
+情報工学を専攻し、c++, アセンブリ,python,javaを用いながら、画像処理やアルゴリズムの学習を進めながら、独学、インターンでNext.js, Goの学習を進めています。人に頼らず自分の意志で自発的に積極的な行動をして、学習を進めています。
+美しい設計と高速な設計ができるエンジニアを目指しています。
 
-| | |
-|:---|:---|
-| **Vision** | ソフトウェアエンジニア |
-| **Now Building** | Next.js + Go |
-| **Backend** | Go, Python, C++, Java |
+- **Vision:** ソフトウェアエンジニア
+- **Now Building:** Next.js + Go
+- **Backend:** Go, Python, C++, Java
 
 ---
 
 ### 🌊 System Pulse & Autonomous Growth
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00D1FF&height=2&width=100%" />
-</p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/yabu1121/yabu1121/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="95%" />
@@ -47,10 +41,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yabu1121&theme=transparent&layout=compact&title_color=00D1FF&text_color=a9b1d6&hide_border=true" width="85%" />
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00D1FF&height=2&width=100%" />
-</p>
 
 ---
 
@@ -79,7 +69,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:あなたのメール">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <br><br>
