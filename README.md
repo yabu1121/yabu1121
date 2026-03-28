@@ -1,13 +1,4 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=00D1FF&center=true&vCenter=true&width=650&lines=I'm+Hayato+Nasu.;Next.js+Fullstack+Engineer." alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=120&section=header" width="100%" />
-</p>
-
-<br>
-
 ### 自己紹介
 
 那須隼人（なすはやと）
@@ -54,15 +45,6 @@
 | **Infrastructure** | <img src="https://skillicons.dev/icons?i=git,docker,linux,actions&theme=dark" height="40" /> |
 
 ---
-
-### Coding Hours (Real-time Focus)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yabu1121&theme=tokyonight&layout=compact&bg_color=00000000&hide_border=true&title_color=00D1FF" width="60%" />
-</p>
-
-<br>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=80&section=footer" width="100%" />
   <br>
@@ -73,6 +55,4 @@
   <a href="mailto:hayabusa115643@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <br><br>
-  <small>Engineering with passion. Evolving autonomously.</small>
 </div>
