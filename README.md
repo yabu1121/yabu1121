@@ -33,6 +33,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yabu1121&show_icons=true&theme=transparent&count_private=true&title_color=00D1FF&text_color=a9b1d6&icon_color=00D1FF&hide_border=true" height="160em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yabu1121&layout=compact&theme=transparent&title_color=00D1FF&text_color=a9b1d6&icon_color=00D1FF&hide_border=true" height="160em" />
+  ![](./profile-3d-contrib/profile-green-animate.svg)
 </p>
 
 ---
