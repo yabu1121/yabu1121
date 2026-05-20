@@ -5,7 +5,8 @@
 ---
 
 ### Biography
-2024年5月より独学を開始。現在はGoとNext.jsを用いたフルスタック開発に注力しています。
+2024年5月より独学を開始。  
+現在はGoとNext.jsを用いたフルスタック開発に注力しています。  
 大学では低レイヤからアルゴリズムまで、コンピュータサイエンスの基礎を網羅的に学習中。
 
 - **Current:** Developing scalable web applications with Go & Next.js
